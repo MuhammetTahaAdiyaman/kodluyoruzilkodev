@@ -1,0 +1,40 @@
+.logo>img{
+    display: block;
+    margin: auto;
+}
+
+.search-box{
+    text-align: center;
+    background-color:#EEEEEE;
+    width: 90% ;
+    margin: auto;
+}
+
+.info-box2{
+    
+    background-color: #62B3AA;
+    margin: auto;
+    width: 90%;
+    margin-top: 2px;
+    font-weight:lighter;
+    font-size: 16px;
+    text-align: center;
+}
+
+.info-box2 td{
+    border-right:2px solid white;
+}
+
+.info-box td:last-child{
+    border-right: none;
+}
+
+.info-box3{
+    text-align:center;
+    margin:auto;
+    display:block;
+}
+
+.info-box2:link{
+    color:blue;
+}
